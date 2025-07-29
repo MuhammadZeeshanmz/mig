@@ -1,0 +1,2 @@
+D:/all-project/mightyweb/android/app/.cxx/RelWithDebInfo/4b2o5t6t/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/all-project/mightyweb/android/app/.cxx/RelWithDebInfo/4b2o5t6t/armeabi-v7a/CMakeFiles/rebuild_cache.dir

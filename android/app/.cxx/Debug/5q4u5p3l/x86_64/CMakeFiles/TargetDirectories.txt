@@ -1,0 +1,2 @@
+D:/all-project/mightyweb/android/app/.cxx/Debug/5q4u5p3l/x86_64/CMakeFiles/edit_cache.dir
+D:/all-project/mightyweb/android/app/.cxx/Debug/5q4u5p3l/x86_64/CMakeFiles/rebuild_cache.dir

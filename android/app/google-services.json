@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642620604314",
+    "project_id": "migh-45fb9",
+    "storage_bucket": "migh-45fb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642620604314:android:af85dfab75f6584b238423",
+        "android_client_info": {
+          "package_name": "app.pikolance.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbW8PLTmOTWFwhfu7aDz0qrb21jBmPM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
